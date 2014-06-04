@@ -1,0 +1,52 @@
+2014-05-05 13:41:33,361 - root - INFO - ccModel : 18 - read logging config
+2014-05-05 13:41:33,362 - root - DEBUG - ccModel : 20 - read logging config
+2014-05-05 13:42:42,750 - root - INFO - ccModel : 18 - read logging config
+2014-05-05 13:42:42,750 - root - DEBUG - ccModel : 20 - read logging config
+2014-05-05 13:43:05,272 - root - INFO - ccModel : 18 - read logging config
+2014-05-05 13:43:05,273 - root - DEBUG - ccModel : 20 - read logging config
+2014-05-05 13:59:47,769 - root - INFO - ccModel : 16 - Starting Cohort Component Model
+2014-05-05 14:00:50,502 - root - INFO - ccModel : 16 - Starting Cohort Component Model
+2014-05-05 14:05:41,130 - root - INFO - ccModel : 16 - Starting Cohort Component Model
+2014-05-05 14:05:41,131 - root - INFO - ccModel : 19 - Connecting to pele using port 1433 and database skinny_defm
+2014-05-05 14:06:07,710 - root - INFO - ccModel : 16 - Starting Cohort Component Model
+2014-05-05 14:06:07,713 - root - INFO - ccModel : 19 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-05 14:22:01,301 - root - INFO - ccModel : 16 - Starting Cohort Component Model
+2014-05-05 14:22:01,305 - root - INFO - ccModel : 19 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-05 14:22:20,003 - root - INFO - ccModel : 16 - Starting Cohort Component Model
+2014-05-05 14:22:20,006 - root - INFO - ccModel : 19 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-05 14:33:28,470 - root - INFO - ccModel : 16 - Starting Cohort Component Model
+2014-05-05 14:33:28,471 - root - INFO - ccModel : 19 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-05 14:39:55,713 - root - INFO - ccModel : 16 - Starting Cohort Component Model
+2014-05-05 14:39:55,716 - root - INFO - ccModel : 19 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-05 14:40:05,627 - root - INFO - ccModel : 16 - Starting Cohort Component Model
+2014-05-05 14:40:05,631 - root - INFO - ccModel : 19 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-05 14:40:40,805 - root - INFO - ccModel : 16 - Starting Cohort Component Model
+2014-05-05 14:40:40,809 - root - INFO - ccModel : 19 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-05 14:41:30,845 - root - INFO - ccModel : 16 - Starting Cohort Component Model
+2014-05-05 14:41:30,846 - root - INFO - ccModel : 19 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-05 14:42:28,372 - root - INFO - ccModel : 16 - Starting Cohort Component Model
+2014-05-05 14:42:44,190 - root - INFO - ccModel : 16 - Starting Cohort Component Model
+2014-05-05 14:42:44,191 - root - INFO - ccModel : 19 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-05 14:46:05,569 - root - INFO - ccModel : 16 - Starting Cohort Component Model
+2014-05-05 14:46:05,571 - root - INFO - ccModel : 19 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-05 14:46:26,509 - root - INFO - ccModel : 16 - Starting Cohort Component Model
+2014-05-05 14:46:26,510 - root - INFO - ccModel : 19 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-05 14:50:05,421 - root - INFO - <ipython-input-18-9b5d64605d8f> : 6 - Starting Cohort Component Model
+2014-05-05 14:50:05,424 - root - INFO - <ipython-input-18-9b5d64605d8f> : 9 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-05 14:58:55,627 - root - INFO - <ipython-input-27-9b5d64605d8f> : 6 - Starting Cohort Component Model
+2014-05-05 14:58:55,628 - root - INFO - <ipython-input-27-9b5d64605d8f> : 9 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-05 15:30:16,755 - root - INFO - <ipython-input-2-9b5d64605d8f> : 6 - Starting Cohort Component Model
+2014-05-05 15:30:16,756 - root - INFO - <ipython-input-2-9b5d64605d8f> : 9 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-06 12:18:46,602 - root - INFO - <ipython-input-54-9b5d64605d8f> : 6 - Starting Cohort Component Model
+2014-05-06 12:18:46,604 - root - INFO - <ipython-input-54-9b5d64605d8f> : 9 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-07 15:24:35,734 - root - INFO - <ipython-input-14-78e91bf5986a> : 6 - Starting Cohort Component Model
+2014-05-07 15:24:45,641 - root - INFO - <ipython-input-15-1ad9a12aa147> : 2 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-07 15:43:42,377 - root - INFO - <ipython-input-23-7fee9162f9e3> : 8 - Starting Cohort Component Model
+2014-05-07 15:45:37,664 - root - INFO - <ipython-input-29-c889558e4481> : 8 - Starting Cohort Component Model
+2014-05-07 15:45:37,667 - root - INFO - <ipython-input-29-c889558e4481> : 15 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-07 15:48:10,786 - root - INFO - <ipython-input-32-8e62045cc3af> : 8 - Starting Cohort Component Model
+2014-05-07 15:56:41,627 - root - INFO - <ipython-input-51-0b305763a8c4> : 6 - Starting Cohort Component Model
+2014-05-07 16:00:35,526 - root - INFO - <ipython-input-62-7a3bf2c215f3> : 23 - Starting Cohort Component Model
+2014-05-07 16:00:35,529 - root - INFO - <ipython-input-62-7a3bf2c215f3> : 29 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
+2014-05-07 16:01:22,848 - root - INFO - <ipython-input-66-0b79f0af79dd> : 23 - Starting Cohort Component Model
+2014-05-07 16:01:22,848 - root - INFO - <ipython-input-66-0b79f0af79dd> : 29 - Connecting to pele.sandag.org using port 1433 and database skinny_defm
